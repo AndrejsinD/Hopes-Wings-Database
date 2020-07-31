@@ -1,0 +1,14 @@
+Flask==1.1.1
+Flask-Login==0.4.1
+Flask-Mail==0.9.1
+Werkzeug==0.15.6
+itsdangerous==1.1.0
+Jinja2==2.10.1
+peewee==3.10.0
+PyMySQL==0.9.3
+pyOpenSSL==19.0.0
+PyYAML==5.1.2
+XlsxWriter==1.2.0
+
+
+
