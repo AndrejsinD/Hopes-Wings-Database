@@ -7,7 +7,7 @@ Jinja2==2.10.1
 peewee==3.10.0
 PyMySQL==0.9.3
 pyOpenSSL==19.0.0
-PyYAML==5.1.2
+PyYAML==5.4
 XlsxWriter==1.2.0
 
 
